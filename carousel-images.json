@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "imageUrl": "https://static.wixstatic.com/media/705c45_e5416284136044efbdc2fd2722900d17~mv2.jpg",
+      "link": "https://example.com/series/good-doctor"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/51e163_14324b6b67c243dfa32d88f9c12c8753~mv2.jpeg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://example.com/images/dr-house.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://example.com/images/stargate.jpg",
+      "link": "https://example.com/series/stargate"
+    },
+    {
+      "imageUrl": "https://example.com/images/big-bang-theory.jpg",
+      "link": "https://example.com/series/big-bang-theory"
+    },
+    {
+      "imageUrl": "https://example.com/images/young-sheldon.jpg",
+      "link": "https://example.com/series/young-sheldon"
+    }
+  ]
+}
