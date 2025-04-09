@@ -13,16 +13,8 @@
       "link": "https://example.com/series/dr-house"
     },
     {
-      "imageUrl": "https://static.wixstatic.com/media/53a2cd_96959a8217164947be2f880a425d3d61~mv2.png/v1/fill/w_235,h_300,al_c,q_85,enc_avif,quality_auto/53a2cd_96959a8217164947be2f880a425d3d61~mv2.png",
+      "imageUrl": "https://static.wixstatic.com/media/53a2cd_96959a8217164947be2f880a425d3d61~mv2.png",
       "link": "https://example.com/series/stargate"
-    },
-    {
-      "imageUrl": "https://example.com/images/big-bang-theory.jpg",
-      "link": "https://example.com/series/big-bang-theory"
-    },
-    {
-      "imageUrl": "https://example.com/images/young-sheldon.jpg",
-      "link": "https://example.com/series/young-sheldon"
     }
   ]
 }
