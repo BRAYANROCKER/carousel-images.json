@@ -5,15 +5,119 @@
       "link": "https://example.com/series/good-doctor"
     },
     {
-      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg/v1/fill/w_93,h_132,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
       "link": "https://example.com/series/greys-anatomy"
     },
     {
-      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg/v1/fill/w_101,h_132,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
       "link": "https://example.com/series/dr-house"
     },
     {
-      "imageUrl": "https://static.wixstatic.com/media/eeef63_b60befe5b3404b838273172c4d4ebe5b.jpg/v1/fill/w_99,h_132,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/eeef63_b60befe5b3404b838273172c4d4ebe5b.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_ee571a62d97044179d7fd357170b258d.jpg",
+      "link": "https://example.com/series/greys-anatomy"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_0045796c984c4306a75919cb9387f9dc.jpg",
+      "link": "https://example.com/series/dr-house"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/eeef63_b60befe5b3404b838273172c4d4ebe5b.jpg",
       "link": "https://example.com/series/stargate"
     }
   ]
